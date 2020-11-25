@@ -1,1 +1,1 @@
-# Excercise for the reader
+# Exercise for the reader
